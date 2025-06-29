@@ -1,0 +1,21 @@
+/* IDs */
+#second {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#fourth {
+  background-color: rgb(144, 238, 144);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Classes */
+.odd {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-size {
+  font-size: 24px;
+}
